@@ -2,7 +2,7 @@
 
 It is [Inktober](https://www.google.dk/search?q=inktober) and I need some help with drawing
 
-For now it just draws a grid to help with orientations and proportions.
+For now it just draws a grid to help you with orientations and proportions.
 
 ## Is it any good?
 
